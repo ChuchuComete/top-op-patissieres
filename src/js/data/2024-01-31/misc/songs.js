@@ -1,4 +1,4 @@
-export const animeEndings = [
+export const songs = [
 	{
     name: "Domestic na Kanojo - Kawaki o Ameku by Minami",
     videoId : "https://nl.catbox.video/txcl05.webm",
