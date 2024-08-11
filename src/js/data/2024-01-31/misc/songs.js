@@ -1,7 +1,8 @@
+
 export const songs = [
 	{
-    name: "Domestic na Kanojo - Kawaki o Ameku by Minami",
-    videoId : "https://nl.catbox.video/txcl05.webm",
+    name: "Clannad After Story - Toki o Kizamu Uta by Lia",
+    videoId : "https://nl.catbox.video/1dhitq.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -10,8 +11,8 @@ export const songs = [
     }
 },
 	{
-    name: "Gundam Build Fighters - wimp by BACK-ON & Lil' Fang (from FAKY)",
-    videoId : "https://nl.catbox.video/lfe6nf.webm",
+    name: "Oshi no Ko - Idol by YOASOBI",
+    videoId : "https://nl.catbox.video/2zfjcg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -20,8 +21,8 @@ export const songs = [
     }
 },
 	{
-    name: "Gintama: The Semi-Final - I Wanna Be... by SPYAIR",
-    videoId : "https://nl.catbox.video/prf893.webm",
+    name: "Gekijouban Pocket Monsters XY&Z: Volcanion to Karakuri no Magearna - XY&Z -movie ver.-",
+    videoId : "https://nl.catbox.video/0rsa9h.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -30,128 +31,8 @@ export const songs = [
     }
 },
 	{
-    name: "Kakushigoto - Chiisana Hibi by flumpool",
-    videoId : "https://nl.catbox.video/c41myn.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Kaizoku Oujo - Umi to Shinju by JUNNA",
-    videoId : "https://nl.catbox.video/2kx18r.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Meitantei Conan - Ai wa Kurayami no Naka de by ZARD",
-    videoId : "https://nl.catbox.video/46cpuc.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Watashi no Shiawase na Kekkon - Anata no Soba ni. by Riria.",
-    videoId : "https://nl.catbox.video/ar9ind.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Meitantei Conan - START by Rina Aiuchi",
-    videoId : "https://nl.catbox.video/0wvv8s.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Vinland Saga - MUKANJYO by Survive Said The Prophet",
-    videoId : "https://nl.catbox.video/1iocyp.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Fairy Tail - Believe in Myself by EDGE of LIFE",
-    videoId : "https://nl.catbox.video/858pri.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Ashita no Nadja - Nadja!! by Minako Honda",
-    videoId : "https://nl.catbox.video/pun5kc.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Naruto Shippuden - Kara no Kokoro by Anly",
-    videoId : "https://nl.catbox.video/h6yvlm.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Slayers Revolution - Plenty of grit by Megumi Hayashibara",
-    videoId : "https://nl.catbox.video/bd5txf.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Magic Kaito 1412 - Ai no Scenario by CHiCO with HoneyWorks",
-    videoId : "https://nl.catbox.video/qinzxi.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Hiiro no Kakera - Nee by Maiko Fujita",
-    videoId : "https://nl.catbox.video/mtgqwc.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "Hajime no Ippo: New Challenger - HEKIREKI by LAST ALLIANCE",
-    videoId : "https://nl.catbox.video/qszlrf.webm",
+    name: "Kakumeiki Valvrave - Kakumei Dualism by Nana Mizuki×T.M.Revolution",
+    videoId : "https://nl.catbox.video/x50r2v.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -170,8 +51,8 @@ export const songs = [
     }
 },
 	{
-    name: "Golden Kamuy - Reimei by Sayuri×MY FIRST STORY",
-    videoId : "https://nl.catbox.video/vwuwju.webm",
+    name: "86 Eighty-Six - Kyoukaisen by amazarashi",
+    videoId : "https://nl.catbox.video/c43ltw.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -180,8 +61,8 @@ export const songs = [
     }
 },
 	{
-    name: "Mermaid Melody: Pichi Pichi Pitch - Rainbow Notes♪ by Miyuki Kanbe",
-    videoId : "https://nl.catbox.video/3bxeai.webm",
+    name: "Sword Art Online: Alicization - War of Underworld - ANIMA by ReoNa",
+    videoId : "https://nl.catbox.video/h0rqd7.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -190,8 +71,8 @@ export const songs = [
     }
 },
 	{
-    name: "Gunslinger Girl: Il Teatrino - Tatta Hitotsu no Omoi by KOKIA",
-    videoId : "https://nl.catbox.video/qh46hx.webm",
+    name: "Major - Kokoroe by ROAD OF MAJOR",
+    videoId : "https://nl.catbox.video/7ritrj.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -200,8 +81,8 @@ export const songs = [
     }
 },
 	{
-    name: "Rainbow: Nisha Rokubou no Shichinin - We're not alone by coldrain",
-    videoId : "https://nl.catbox.video/816xrm.webm",
+    name: "Gekijouban Karakai Jouzu no Takagi-san - Hajimari no Natsu by Yuiko Ohara",
+    videoId : "https://nl.catbox.video/fac9vg.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -210,8 +91,8 @@ export const songs = [
     }
 },
 	{
-    name: "Sousei no Onmyouji - Re:Call by i☆Ris",
-    videoId : "https://nl.catbox.video/fmxkhy.webm",
+    name: "K: Return of Kings - Asymmetry by Yui Horie",
+    videoId : "https://nl.catbox.video/iddtk1.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -220,8 +101,8 @@ export const songs = [
     }
 },
 	{
-    name: "KimiKiss Pure Rouge - Aozora loop by marble",
-    videoId : "https://nl.catbox.video/4hwr48.webm",
+    name: "Rakudai Kishi no Cavalry - Identity by Mikio Sakai",
+    videoId : "https://nl.catbox.video/veb0h2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -230,8 +111,8 @@ export const songs = [
     }
 },
 	{
-    name: "Kaichou wa Maid-sama - My Secret by Saaya Mizuno",
-    videoId : "https://nl.catbox.video/79ag0a.webm",
+    name: "Kusuriya no Hitorigoto - Hana ni Natte by Ryokuoushoku Shakai",
+    videoId : "https://nl.catbox.video/7ofd1i.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -240,8 +121,8 @@ export const songs = [
     }
 },
 	{
-    name: "Niehime to Kemono no Ou - Tsuitachi no Nie by BIN",
-    videoId : "https://nl.catbox.video/ntpj00.webm",
+    name: "Tales of Zestiria the X - Kaze no Uta by FLOW",
+    videoId : "https://nl.catbox.video/ccgu8n.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -250,8 +131,8 @@ export const songs = [
     }
 },
 	{
-    name: "Fate/stay night: Unlimited Blade Works - ideal white by Mashiro Ayano",
-    videoId : "https://nl.catbox.video/eecywy.webm",
+    name: "Karigurashi no Arrietty - Areta Niwa by Cécile Corbel",
+    videoId : "https://nl.catbox.video/d19ymi.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -260,8 +141,8 @@ export const songs = [
     }
 },
 	{
-    name: "Yuukoku no Moriarty - TWISTED HEARTS by Tasuku Hatanaka",
-    videoId : "https://nl.catbox.video/cz67hk.webm",
+    name: "Kantai Collection: KanColle - Mi-iro by AKINO from bless4",
+    videoId : "https://nl.catbox.video/2tez6l.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -270,8 +151,8 @@ export const songs = [
     }
 },
 	{
-    name: "Kamisama ni Natta Hi - Kimi to Iu Shinwa by Jun Maeda×Nagi Yanagi",
-    videoId : "https://nl.catbox.video/p3yi3o.webm",
+    name: "Summertime Render - Natsuyume Noisy by Asaka",
+    videoId : "https://nl.catbox.video/r4wrc2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -280,8 +161,128 @@ export const songs = [
     }
 },
 	{
-    name: "Kujira no Kora wa Sajou ni Utau - Sono Saki e by RIRIKO",
-    videoId : "https://nl.catbox.video/qnim0q.webm",
+    name: "Lycoris Recoil - ALIVE by ClariS",
+    videoId : "https://nl.catbox.video/ebkfx8.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Dragon Ball Super - Genkai Toppa×Survivor by Kiyoshi Hikawa",
+    videoId : "https://nl.catbox.video/0hyyfq.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Hagane no Renkinjutsushi: Brotherhood - Rain by SID",
+    videoId : "https://nl.catbox.video/lasmre.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Bishoujo Senshi Sailor Moon Crystal - MOON PRIDE by Momoiro Clover Z",
+    videoId : "https://nl.catbox.video/xtsqly.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Kidou Senshi Gundam: Suisei no Majo - slash by yama",
+    videoId : "https://nl.catbox.video/o0yvka.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Re:␣Hamatora - Sen no Tsubasa by livetune adding Takuro Sugawara (from 9mm Parabellum Bullet)",
+    videoId : "https://nl.catbox.video/75i89h.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Mob Psycho 100 III - 1 by MOB CHOIR",
+    videoId : "https://nl.catbox.video/y3873w.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Motto! Majime ni Fumajime Kaiketsu Zorori - Motto! Motto! Kaiketsu Zorori by Kouichi Yamadera",
+    videoId : "https://nl.catbox.video/2turtf.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Urusei Yatsura - I Wanna Muchuu by MAISONdes feat. asmi, Surii",
+    videoId : "https://nl.catbox.video/7xlz55.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Kidou Senshi Gundam: Suisei no Majo - Shukufuku by YOASOBI",
+    videoId : "https://nl.catbox.video/5m0lxh.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Cardfight!! Vanguard: Link Joker-hen - Break your spell by Psychic Lover",
+    videoId : "https://nl.catbox.video/5xliql.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Macross Frontier - Lion by May'n/Megumi Nakajima",
+    videoId : "https://nl.catbox.video/ruhopi.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},
+	{
+    name: "Fairy Tail - STRIKE BACK by BACK-ON",
+    videoId : "https://nl.catbox.video/cmbyuk.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -289,8 +290,8 @@ export const songs = [
         ]
     }
 },{
-    name: "Nana - LUCY by ANNA TSUCHIYA inspi' NANA(BLACK STONES)",
-    videoId : "https://nl.catbox.video/b7yphh.webm",
+    name: "One Piece - We Go! by Hiroshi Kitadani",
+    videoId : "https://nl.catbox.video/io0s7q.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
